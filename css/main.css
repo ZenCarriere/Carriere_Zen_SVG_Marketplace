@@ -1,0 +1,11 @@
+main div { width: 43%; display: inline-block; }
+
+img, svg { width: 100%; }
+
+svg {
+	height:3800px;
+}
+
+#redText:hover {
+	fill:blue;
+}
